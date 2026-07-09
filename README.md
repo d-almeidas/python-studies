@@ -32,4 +32,3 @@ Here I keep my practice exercises from the Python course by Gustavo Guanabara, f
 
 ---
 
-Learning and improving every day 🚀
