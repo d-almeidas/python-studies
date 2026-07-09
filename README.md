@@ -1,8 +1,7 @@
 # Python Studies 🐍
-
-Repository created to store my exercises and progress while learning Python.
-
 ## About
+
+Started in January 2026, this repository contains my exercises and progress while learning Python.
 
 Here I keep my practice exercises from the Python course by Gustavo Guanabara, from basic concepts to more advanced topics.
 
