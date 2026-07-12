@@ -1,29 +1,32 @@
 # Python Studies 🐍
 ## About
 
-Started in January 2026, this repository contains my exercises and progress while learning Python.
+There are 115 exercises in total, organized by topic to make them easier to browse and to show learning progression over time.
 
-Here I keep my practice exercises from the Python course by Gustavo Guanabara, from basic concepts to more advanced topics.
+## Topics Studied
 
-## Topics studied
+### World 1 - Fundamentals
 
-### Mundo 1 - Fundamentals
-- Variables
-- Data types
-- Input and output
-- Conditions
+* Primitive Data Types
+* Arithmetic Operators
+* Modules
+* String Manipulation
+* Conditions
 
-### Mundo 2 - Control Structures
-- Loops
-- Lists
-- Tuples
-- Dictionaries
+### World 2 - Control Structures
 
-### Mundo 3 - Functions and Modules
-- Functions
-- Parameters
-- Return
-- Modules
+* Nested Conditions
+* `for` Loops
+* `while` Loops
+
+### World 3 - Advanced Structures
+
+* Tuples
+* Lists
+* Dictionaries
+* Functions
+* Modules and Packages
+* Error Handling
 
 ## Technologies
 
