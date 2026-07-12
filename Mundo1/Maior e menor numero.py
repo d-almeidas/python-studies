@@ -1,0 +1,7 @@
+num=float(input('Digite o primeiro numero: '))
+num2=float(input('Digite o segundo numero: '))
+num3=float(input('Digite o terceiro numero: '))
+maior=max(num,num2,num3)
+menor=min(num,num2,num3)
+if maior:print(f'{maior} E o maior numero')
+if menor:print(f'{menor} E o menor numero')

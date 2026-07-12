@@ -1,0 +1,5 @@
+frase=input('Digite uma frase: )').lower()
+vezes=frase.count('a')
+p1=frase.find('a')
+p2=frase.rfind('a')
+print(f'Na frase {frase} o a se repete {vezes} vezes, sua primeira aparição e na {p1} linha e sua ultima e na {p2} linha')
